@@ -1,8 +1,8 @@
 {
-    "version-name": "1.0",
-    "version-code": "1",
+    "version-name": "1.2",
+    "version-code": "2",
     "force-update": "yes",
     "changes-log": "- Download this latest update.",
     "download-link": "https://venomdino.github.io/WinterFlix-Static-Web",
-    "direct-download-link": "https://venomdino.github.io/WinterFlix-Static-Web/apk/winterflix_v1.0.apk"
+    "direct-download-link": "https://venomdino.github.io/WinterFlix-Static-Web/apk/WinterFlix_v1.2-Unstable.apk"
 }
